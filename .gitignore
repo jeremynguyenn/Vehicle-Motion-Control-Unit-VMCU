@@ -1,0 +1,33 @@
+# STM32CubeIDE
+.metadata/
+[Rr]elease/
+[Dd]ebug/
+*.launch
+
+# KiCad backup and autosave files
+*.bak
+*.bck
+*.tmp
+*.autosave
+
+# KiCad user-specific settings
+fp-lib-table
+sym-lib-table
+fp-info-cache
+*.caches
+*.kicad_prl
+
+# KiCad build files
+*-backups/
+*-cache.lib
+*-rescue.lib
+*-rescue.kicad_sym
+*-rescue.dcm
+*-rescue.kicad_mod
+*.xml
+*.net
+*.bck
+*.-bak
+*.lck
+production/
+
