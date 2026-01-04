@@ -1,5 +1,7 @@
-# TeR_ECU
-TeR Electronic Control Unit, which handles the behaivour of the cars dynamic system while gathering all the sensor and data neccesary for operation through its inputs and communication buses.
+## For security reasons, only upload photos.
+
+# SCU ECU
+ Electronic Control Unit, which handles the behaivour of the cars dynamic system while gathering all the sensor and data neccesary for operation through its inputs and communication buses.
 
 ## Architecture
 - UML SCU Firmware Sequence Diagram: System Initialization and Data Flow
