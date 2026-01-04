@@ -1,6 +1,10 @@
 # TeR_ECU
 TeR Electronic Control Unit, which handles the behaivour of the cars dynamic system while gathering all the sensor and data neccesary for operation through its inputs and communication buses.
 
+## Architecture
+- UML SCU Firmware Sequence Diagram: System Initialization and Data Flow
+<img width="3515" height="2069" alt="SCU_System_Diagram_UML" src="https://github.com/user-attachments/assets/94267902-22ec-490d-b3cf-36e15379422b" />
+
 
 ## Features
 - STM32F405VGTx Microcontroller (Cortex™-M4 Core@168mHz with FPU)
